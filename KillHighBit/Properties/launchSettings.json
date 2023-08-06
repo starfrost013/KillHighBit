@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KillHighBit": {
+      "commandName": "Project",
+      "commandLineArgs": "kill.bin"
+    }
+  }
+}
